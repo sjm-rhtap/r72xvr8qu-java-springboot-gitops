@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: r72xvr8qu-java-springboot-repository
+spec:
+  url: https://github.com/sjm-rhtap/r72xvr8qu-java-springboot
